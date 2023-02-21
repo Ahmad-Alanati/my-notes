@@ -110,7 +110,7 @@ It is a tool that help you control your files for the programs so if there is an
 ## how to use VCS tools like git and github
 clone command: git clone SSH link\
 add command: git add\
-commit command: git commit -m"type a description"
+commit command: git commit -m"type a description"\
 push command: git push origin main
 ### ACP is add, commit, push.
 
